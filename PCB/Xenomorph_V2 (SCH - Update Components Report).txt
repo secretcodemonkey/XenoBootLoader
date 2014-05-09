@@ -1,0 +1,169 @@
+Update Components Report
+------------------------
+
+Report File    : D:\SiLabs\DesignSpark\Data\Designs\XenomorphRevB\Xenomorph_V2 (SCH - Update Components Report).txt
+Report Written : Monday, July 15, 2013
+Project Path   : D:\SiLabs\DesignSpark\Data\Designs\XenomorphRevB\Xenomorph_V2.prj
+Design Path    : D:\SiLabs\DesignSpark\Data\Designs\XenomorphRevB\Xenomorph_V2.sch
+Design Title   : 
+Created        : 
+Last Saved     : 09/04/2012 22:37:50
+Editing Time   : 4286 min
+Units          : thou (precision 2)
+
+
+Library Files:
+==============
+
+D:\SiLabs\DesignSpark\Data\Library\3m.cml
+D:\SiLabs\DesignSpark\Data\Library\74hc.cml
+D:\SiLabs\DesignSpark\Data\Library\74hct.cml
+D:\SiLabs\DesignSpark\Data\Library\74ls.cml
+D:\SiLabs\DesignSpark\Data\Library\4000.cml
+D:\SiLabs\DesignSpark\Data\Library\actel.cml
+D:\SiLabs\DesignSpark\Data\Library\ad.cml
+D:\SiLabs\DesignSpark\Data\Library\adsp.cml
+D:\SiLabs\DesignSpark\Data\Library\altera.cml
+D:\SiLabs\DesignSpark\Data\Library\alteracyclone.cml
+D:\SiLabs\DesignSpark\Data\Library\amp.cml
+D:\SiLabs\DesignSpark\Data\Library\atmel.cml
+D:\SiLabs\DesignSpark\Data\Library\atmel8051.cml
+D:\SiLabs\DesignSpark\Data\Library\atmelarm.cml
+D:\SiLabs\DesignSpark\Data\Library\atmelatsam7.cml
+D:\SiLabs\DesignSpark\Data\Library\atmelavr.cml
+D:\SiLabs\DesignSpark\Data\Library\avx.cml
+D:\SiLabs\DesignSpark\Data\Library\capacitor.cml
+D:\SiLabs\DesignSpark\Data\Library\coldfire.cml
+D:\SiLabs\DesignSpark\Data\Library\connector.cml
+D:\SiLabs\DesignSpark\Data\Library\csm.cml
+D:\SiLabs\DesignSpark\Data\Library\cypress.cml
+D:\SiLabs\DesignSpark\Data\Library\diode.cml
+D:\SiLabs\DesignSpark\Data\Library\discrete.cml
+D:\SiLabs\DesignSpark\Data\Library\dsm.cml
+D:\SiLabs\DesignSpark\Data\Library\fairchild.cml
+D:\SiLabs\DesignSpark\Data\Library\fairchild1.cml
+D:\SiLabs\DesignSpark\Data\Library\fairchildacex.cml
+D:\SiLabs\DesignSpark\Data\Library\fci.cml
+D:\SiLabs\DesignSpark\Data\Library\fuse.cml
+D:\SiLabs\DesignSpark\Data\Library\hamlin.cml
+D:\SiLabs\DesignSpark\Data\Library\hybrid.cml
+D:\SiLabs\DesignSpark\Data\Library\infineontc116x.cml
+D:\SiLabs\DesignSpark\Data\Library\intel8051.cml
+D:\SiLabs\DesignSpark\Data\Library\ir.cml
+D:\SiLabs\DesignSpark\Data\Library\lattice.cml
+D:\SiLabs\DesignSpark\Data\Library\lt.cml
+D:\SiLabs\DesignSpark\Data\Library\luminarycortex.cml
+D:\SiLabs\DesignSpark\Data\Library\maxim.cml
+D:\SiLabs\DesignSpark\Data\Library\maxim8051.cml
+D:\SiLabs\DesignSpark\Data\Library\maximmp.cml
+D:\SiLabs\DesignSpark\Data\Library\mc68hc.cml
+D:\SiLabs\DesignSpark\Data\Library\microchip.cml
+D:\SiLabs\DesignSpark\Data\Library\microchippic.cml
+D:\SiLabs\DesignSpark\Data\Library\molex.cml
+D:\SiLabs\DesignSpark\Data\Library\msp430.cml
+D:\SiLabs\DesignSpark\Data\Library\murata.cml
+D:\SiLabs\DesignSpark\Data\Library\natsemi.cml
+D:\SiLabs\DesignSpark\Data\Library\nxp-lpc32x0.cml
+D:\SiLabs\DesignSpark\Data\Library\omron.cml
+D:\SiLabs\DesignSpark\Data\Library\onsemi.cml
+D:\SiLabs\DesignSpark\Data\Library\opamps.cml
+D:\SiLabs\DesignSpark\Data\Library\pcb.cml
+D:\SiLabs\DesignSpark\Data\Library\philips80c51.cml
+D:\SiLabs\DesignSpark\Data\Library\philipsarm.cml
+D:\SiLabs\DesignSpark\Data\Library\philipsp89.cml
+D:\SiLabs\DesignSpark\Data\Library\philipsxa.cml
+D:\SiLabs\DesignSpark\Data\Library\picaxe.cml
+D:\SiLabs\DesignSpark\Data\Library\powerpc.cml
+D:\SiLabs\DesignSpark\Data\Library\qbsm.cml
+D:\SiLabs\DesignSpark\Data\Library\qcsm.cml
+D:\SiLabs\DesignSpark\Data\Library\qsm.cml
+D:\SiLabs\DesignSpark\Data\Library\quicklogic.cml
+D:\SiLabs\DesignSpark\Data\Library\relay.cml
+D:\SiLabs\DesignSpark\Data\Library\renesasr8c.cml
+D:\SiLabs\DesignSpark\Data\Library\resistor.cml
+D:\SiLabs\DesignSpark\Data\Library\rfmicro.cml
+D:\SiLabs\DesignSpark\Data\Library\schema.cml
+D:\SiLabs\DesignSpark\Data\Library\Silabs.cml
+D:\SiLabs\DesignSpark\Data\Library\sm.cml
+D:\SiLabs\DesignSpark\Data\Library\sonycx.cml
+D:\SiLabs\DesignSpark\Data\Library\SparkFun 04-13-10.cml
+D:\SiLabs\DesignSpark\Data\Library\st-arm7.cml
+D:\SiLabs\DesignSpark\Data\Library\st.cml
+D:\SiLabs\DesignSpark\Data\Library\testpoint.cml
+D:\SiLabs\DesignSpark\Data\Library\ti.cml
+D:\SiLabs\DesignSpark\Data\Library\Tilight.cml
+D:\SiLabs\DesignSpark\Data\Library\tms320.cml
+D:\SiLabs\DesignSpark\Data\Library\tms470.cml
+D:\SiLabs\DesignSpark\Data\Library\toshibatmp86.cml
+D:\SiLabs\DesignSpark\Data\Library\trans.cml
+D:\SiLabs\DesignSpark\Data\Library\transistor.cml
+D:\SiLabs\DesignSpark\Data\Library\vishay.cml
+D:\SiLabs\DesignSpark\Data\Library\Xenomorph.cml
+D:\SiLabs\DesignSpark\Data\Library\xilinx.cml
+D:\SiLabs\DesignSpark\Data\Library\zilog.cml
+
+Selected items to be updated:
+=============================
+
+
+Components:
+===========
+
+    (None) 
+
+Symbols:
+========
+
+    (None) 
+
+Additional items to be updated:
+===============================
+
+
+Components:
+===========
+
+    (None) 
+
+Symbols:
+========
+
+    (None) 
+
+Selected items not to be updated  (Same version as library)
+===========================================================
+
+
+Components:
+===========
+
+SP0503BAHTG  D:\SiLabs\DesignSpark\Data\Library\discrete.cml
+
+Symbols:
+========
+
+SP0503BAHTG
+
+
+
+Update Components Summary
+=========================
+
+Updating single component.
+Update component values
+Update component value positions
+
+	Selected for update:			   1  Component 
+						   1  Symbol 
+
+	Selected items to be updated:		   0  Components
+						   0  Symbols
+
+	Additional items to be updated:		   0  Components
+						   0  Symbols
+
+	Selected items NOT to be updated:	   1  Component 
+	  (Same version as library)		   1  Symbol 
+
+
+End Of Report.

@@ -1,0 +1,356 @@
+PLOT REPORT
+-----------
+
+Report File    : C:\SiLabs\DesignSpark\Data\Designs\XenomorphRevB\Xenomorph_V2 (PCB - PLOT REPORT).txt
+Report Written : Monday, April 09, 2012
+Project Path   : C:\SiLabs\DesignSpark\Data\Designs\XenomorphRevB\Xenomorph_V2.prj
+Design Path    : C:\SiLabs\DesignSpark\Data\Designs\XenomorphRevB\Xenomorph_V2.pcb
+Design Title   : 
+Created        : 22/10/2011 22:01:23
+Last Saved     : 09/04/2012 20:58:34
+Editing Time   : 4996 min
+Units          : mm (precision 2)
+
+DEVICE SETTINGS
+---------------
+
+---------------
+Gerber Settings
+---------------
+
+    Leading zero suppression.
+    G01 assumed throughout.
+    Line termination <*> <CR> <LF>.
+    2.3 format absolute inches.
+    Format commands defined in Gerber file.
+    Aperture table defined in Gerber file.
+    Hardware arcs allowed.
+
+--------------
+Drill Settings
+--------------
+
+    Excellon Format 1
+    Format 2.3 absolute in mm.
+    No zero suppression.
+
+
+PLOTS OUTPUT
+------------
+    Plot Job: "C:\SiLabs\DesignSpark\Data\Designs\XenomorphRevB\Xenomorph_V2.mop"
+
+
+Gerber Output
+-------------
+
+    "C:\SiLabs\DesignSpark\Data\Designs\XenomorphRevB\Xenomorph_V2 - Top Documentation.gbr"
+
+    Layers:
+    -------
+    Top Documentation
+    Board Outlines
+
+    D-Code    Shape  (thou)
+    -----------------------
+    D14       Round 1.00
+    D16       Round 5.00
+
+
+Gerber Output
+-------------
+
+    "C:\SiLabs\DesignSpark\Data\Designs\XenomorphRevB\Xenomorph_V2 - Top Silkscreen.gbr"
+
+    Layers:
+    -------
+    Top Silkscreen
+    Board Outlines
+
+    D-Code    Shape  (thou)
+    -----------------------
+    D10       Round 6.00
+    D11       Round 3.00
+    D13       Round 8.00
+    D14       Round 1.00
+    D15       Round 7.87
+    D16       Round 5.00
+
+
+Gerber Output
+-------------
+
+    "C:\SiLabs\DesignSpark\Data\Designs\XenomorphRevB\Xenomorph_V2 - Top Copper.gbr"
+
+    Layers:
+    -------
+    Top Copper
+    Board Outlines
+
+    D-Code    Shape  (thou)
+    -----------------------
+    D13       Round 8.00
+    D14       Round 1.00
+    D15       Round 7.87
+    D16       Round 5.00
+    D18       Rectangle 22.00 X 78.00 Rotation 90
+    D19       Rectangle 51.00 X 60.00 Rotation 90
+    D70       Rectangle 39.40 X 43.30
+    D71       Rectangle 39.40 X 43.30 Rotation 90
+    D20       Rectangle 22.00 X 70.00 Rotation 90
+    D21       Rectangle 22.00 X 70.00
+    D22       Rectangle 23.60 X 86.60 Rotation 90
+    D23       Rectangle 12.00 X 42.00
+    D24       Rectangle 12.00 X 42.00 Rotation 90
+    D25       Square 132.00
+    D26       Rectangle 40.00 X 50.00 Rotation 90
+    D27       Square 40.00
+    D28       Rectangle 29.53 X 43.31
+    D29       Rectangle 46.06 X 70.87
+    D72       Rectangle 53.15 X 61.02 Rotation 90
+    D73       Rectangle 53.15 X 74.80 Rotation 90
+    D74       Rectangle 39.37 X 47.24 Rotation 90
+    D75       Rectangle 33.46 X 43.31
+    D77       Rectangle 40.00 X 48.00
+    D78       Square 31.50
+    D80       Rectangle 98.43 X 19.69
+    D81       Rectangle 98.43 X 78.74
+    D82       Round 47.24
+    D83       Round 22.00
+    D135       Rectangle 59.06 X 94.49
+    D136       Rectangle 59.06 X 94.49 Rotation 90
+    D137       Round 50.00
+    D138       Square 20.00
+    D139       Round 15.75
+
+
+Gerber Output
+-------------
+
+    "C:\SiLabs\DesignSpark\Data\Designs\XenomorphRevB\Xenomorph_V2 - Top Copper (Resist).gbr"
+
+    Layers:
+    -------
+    Top Copper
+    Board Outlines
+
+    D-Code    Shape  (thou)
+    -----------------------
+    D16       Round 5.00
+    D84       Rectangle 32.00 X 88.00 Rotation 90
+    D85       Rectangle 61.00 X 70.00 Rotation 90
+    D86       Rectangle 49.40 X 53.30
+    D87       Rectangle 49.40 X 53.30 Rotation 90
+    D88       Rectangle 32.00 X 80.00 Rotation 90
+    D89       Rectangle 32.00 X 80.00
+    D90       Rectangle 33.60 X 96.60 Rotation 90
+    D91       Rectangle 22.00 X 52.00
+    D92       Rectangle 22.00 X 52.00 Rotation 90
+    D93       Square 142.00
+    D94       Rectangle 50.00 X 60.00 Rotation 90
+    D95       Square 50.00
+    D96       Rectangle 39.53 X 53.31
+    D97       Rectangle 56.06 X 80.87
+    D98       Rectangle 63.15 X 71.02 Rotation 90
+    D99       Rectangle 63.15 X 84.80 Rotation 90
+    D100       Rectangle 49.37 X 57.24 Rotation 90
+    D101       Rectangle 43.46 X 53.31
+    D103       Rectangle 50.00 X 58.00
+    D104       Square 41.50
+    D106       Rectangle 108.43 X 29.69
+    D107       Rectangle 108.43 X 88.74
+    D108       Round 57.24
+    D140       Rectangle 69.06 X 104.49
+    D141       Rectangle 69.06 X 104.49 Rotation 90
+    D142       Round 60.00
+    D143       Square 30.00
+
+
+Gerber Output
+-------------
+
+    "C:\SiLabs\DesignSpark\Data\Designs\XenomorphRevB\Xenomorph_V2 - Top Copper (Paste).gbr"
+
+    Layers:
+    -------
+    Top Copper
+    Board Outlines
+
+    D-Code    Shape  (thou)
+    -----------------------
+    D16       Round 5.00
+    D109       Rectangle 18.00 X 74.00 Rotation 90
+    D110       Rectangle 47.00 X 56.00 Rotation 90
+    D111       Rectangle 35.40 X 39.30
+    D112       Rectangle 35.40 X 39.30 Rotation 90
+    D113       Rectangle 18.00 X 66.00 Rotation 90
+    D114       Rectangle 18.00 X 66.00
+    D115       Rectangle 19.60 X 82.60 Rotation 90
+    D116       Rectangle 8.00 X 38.00
+    D117       Rectangle 8.00 X 38.00 Rotation 90
+    D118       Square 128.00
+    D119       Rectangle 36.00 X 46.00 Rotation 90
+    D120       Square 36.00
+    D121       Rectangle 25.53 X 39.31
+    D122       Rectangle 42.06 X 66.87
+    D123       Rectangle 49.15 X 57.02 Rotation 90
+    D124       Rectangle 49.15 X 70.80 Rotation 90
+    D125       Rectangle 35.37 X 43.24 Rotation 90
+    D126       Rectangle 29.46 X 39.31
+    D128       Rectangle 36.00 X 44.00
+    D129       Square 27.50
+    D131       Rectangle 94.43 X 15.69
+    D132       Rectangle 94.43 X 74.74
+    D144       Rectangle 55.06 X 90.49
+    D145       Rectangle 55.06 X 90.49 Rotation 90
+    D146       Round 46.00
+    D147       Square 16.00
+
+
+Gerber Output
+-------------
+
+    "C:\SiLabs\DesignSpark\Data\Designs\XenomorphRevB\Xenomorph_V2 - Bottom Copper.gbr"
+
+    Layers:
+    -------
+    Bottom Copper
+    Board Outlines
+
+    D-Code    Shape  (thou)
+    -----------------------
+    D13       Round 8.00
+    D14       Round 1.00
+    D15       Round 7.87
+    D16       Round 5.00
+    D82       Round 47.24
+    D83       Round 22.00
+    D133       Round 25.00
+    D148       Round 10.00
+
+
+Gerber Output
+-------------
+
+    "C:\SiLabs\DesignSpark\Data\Designs\XenomorphRevB\Xenomorph_V2 - Bottom Copper (Resist).gbr"
+
+    Layers:
+    -------
+    Bottom Copper
+    Board Outlines
+
+    D-Code    Shape  (thou)
+    -----------------------
+    D16       Round 5.00
+    D108       Round 57.24
+
+
+Gerber Output
+-------------
+
+    "C:\SiLabs\DesignSpark\Data\Designs\XenomorphRevB\Xenomorph_V2 - Bottom Copper (Paste).gbr"
+
+    Layers:
+    -------
+    Bottom Copper
+    Board Outlines
+
+    D-Code    Shape  (thou)
+    -----------------------
+    D16       Round 5.00
+
+
+Gerber Output
+-------------
+
+    "C:\SiLabs\DesignSpark\Data\Designs\XenomorphRevB\Xenomorph_V2 - Bottom Silkscreen.gbr"
+
+    Layers:
+    -------
+    Bottom Silkscreen
+    Board Outlines
+
+    D-Code    Shape  (thou)
+    -----------------------
+    D16       Round 5.00
+
+
+Gerber Output
+-------------
+
+    "C:\SiLabs\DesignSpark\Data\Designs\XenomorphRevB\Xenomorph_V2 - Bottom Documentation.gbr"
+
+    Layers:
+    -------
+    Bottom Documentation
+    Board Outlines
+
+    D-Code    Shape  (thou)
+    -----------------------
+    D16       Round 5.00
+
+
+NC Drill Output
+---------------
+
+    Output:
+    -------
+    Plated Round Drill Holes
+    Plated Slots
+    Plated Board Outlines
+
+    "C:\SiLabs\DesignSpark\Data\Designs\XenomorphRevB\Xenomorph_V2 - Drill Data - Through Hole.drl"
+
+
+    Tool             Size        Count  ID
+    --------------------------------------
+    T001        00.012 in           87   C
+    T002        00.035 in            2   D
+    --------------------------------------
+    All                             89
+    --------------------------------------
+
+NC Drill Output
+---------------
+
+    Output:
+    -------
+    Unplated Round Drill Holes
+    Unplated Slots
+    Unplated Board Outlines
+
+    "C:\SiLabs\DesignSpark\Data\Designs\XenomorphRevB\Xenomorph_V2 - Drill Data - Through Hole (Unplated).drl"
+
+
+    Tool             Size        Count  ID
+    --------------------------------------
+    T001        00.025 in            1   
+    --------------------------------------
+    All                              1
+    --------------------------------------
+
+Gerber Output
+-------------
+
+    "Samsung ML-2850 Series"
+
+    Layers:
+    -------
+    Board Outlines
+
+    Drill Ident Drawing
+    -------------------
+
+    Drill     Plated    Size      Shape     ID        
+    --------------------------------------------------
+    12        Y         100       Round     C         
+    35        Y         100       Round     D         
+    --------------------------------------------------
+
+    D-Code    Shape  (thou)
+    -----------------------
+    D12       Round 3.15
+    D16       Round 5.00
+    D134       Round 100.00
+
+
+End Of Report.

@@ -1,0 +1,15 @@
+Pour Copper Report
+------------------
+
+Report File    : C:\SiLabs\DesignSpark\Data\Designs\XenomorphRevB\Xenomorph_V2 (PCB - Pour Copper Report).txt
+Report Written : Monday, April 09, 2012
+Project Path   : C:\SiLabs\DesignSpark\Data\Designs\XenomorphRevB\Xenomorph_V2.prj
+Design Path    : C:\SiLabs\DesignSpark\Data\Designs\XenomorphRevB\Xenomorph_V2.pcb
+Design Title   : 
+Created        : 22/10/2011 22:01:23
+Last Saved     : 09/04/2012 20:25:32
+Editing Time   : 4962 min
+Units          : mm (precision 2)
+
+
+End Of Report.
